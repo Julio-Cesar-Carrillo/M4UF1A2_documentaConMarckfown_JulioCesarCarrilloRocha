@@ -19,14 +19,14 @@
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/):
 
-    | Aplicaciones  |      Visto    |
-    |---------------|:-------------:|
-    | Google Docs   |  :heavy_check_mark: |
-    | Google Slides |  :heavy_check_mark: |
-    | Google Sheets |  :heavy_check_mark: |
-    | Google Calendar |  :calendar: |
-    | Google Meet |  :computer: |
-    | ... | ... |
+    | Aplicaciones    |       Visto        |
+    | --------------- | :----------------: |
+    | Google Docs     | :heavy_check_mark: |
+    | Google Slides   | :heavy_check_mark: |
+    | Google Sheets   | :heavy_check_mark: |
+    | Google Calendar |     :calendar:     |
+    | Google Meet     |     :computer:     |
+    | ...             |        ...         |
 
 6. ¿Qué es ```HTML```?
   
